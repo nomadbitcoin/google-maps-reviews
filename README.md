@@ -25,7 +25,7 @@ Edite a lista enderecos no script Python com os endereços dos estabelecimentos 
 Execute o script Python com o seguinte comando:
 
 ```
-python google_maps_api.py
+python reviews.py
 ```
 O script irá extrair as informações dos estabelecimentos e salvá-las em um arquivo CSV chamado estabelecimentos.csv na mesma pasta do script Python.
 
